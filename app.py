@@ -5,7 +5,7 @@ import base64
 import pandas as pd
 from ydata_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
-import pandas_profiling
+#import pandas_profiling
 
 from utils.file_upload import upload_and_read_file
 from utils.table_display import display_table

@@ -1,0 +1,29 @@
+VALIDATION_ID,VALIDATION_MESSAGE,COLUMN_1,COLUMN_2,COLUMN_3,COLUMN_4,COLUMN_5,AGE_AS_AT_DOV
+97,Age of CANCER rider main life beneficiary exceeded 65 years or main life date of birth missing,DOB1,,CANCER_LA_SA,,,65
+98,Age of CANCER rider spouse beneficiary exceeded 65 years or spouse date of birth missing,DOB2,,CANCER_SP_SA,,,65
+99,Age of CI rider main life beneficiary exceeded 70 years or main life date of birth missing,DOB1,,SICRIT11,,,70
+100,Age of CI rider spouse beneficiary exceeded 70 years or spouse date of birth missing,DOB2,,SICRIT2,,,70
+101,Age of hospital benefit rider main life beneficiary exceeded 70 years or main life date of birth missing,DOB1,,SIHOSP1,,,70
+102,Age of hospital benefit rider spouse beneficiary exceeded 70 years or spouse date of birth missing,DOB2,,SIHOSP2,,,70
+104,Age of hospital benefit rider child 2 exceeded 18 years or child 2 date of birth missing,CHILDDOB2,,SIHOSP5,,,18
+105,Age of hospital benefit rider child 3 exceeded 18 years or child 3 date of birth missing,CHILDDOB3,,SIHOSP6,,,18
+106,Age of hospital benefit rider child 4 exceeded 18 years or child 4 date of birth missing,CHILDDOB4,,SIHOSP7,,,18
+107,Age of main life Medical Reimbursement rider exceed 70 years or main life date of birth missing,DOB1,,MEDREM_LA_BENEFIT,,,70
+108,Age of spouse Medical Reimbursement rider exceed 70 years or spouse date of birth missing,DOB2,,MEDREM_SP_BENEFIT,,,70
+110,Age of hospital benefit rider child 2 exceeded 23 years or child 2 date of birth missing,CHILDDOB2,,MEDREM_CHILD2_BENEFIT,,,23
+111,Age of hospital benefit rider child 3 exceeded 23 years or child 3 date of birth missing,CHILDDOB3,,MEDREM_CHILD3_BENEFIT,,,23
+112,Age of hospital benefit rider child 4 exceeded 23 years or child 4 date of birth missing,CHILDDOB4,,MEDREM_CHILD4_BENEFIT,,,23
+115,Age of main life surgical benefit rider exceed 70 years or main life date of birth missing,DOB1,,SURBENLS_SI,,,70
+116,Age of spouse surgical benefit rider exceed 70 years or spouse date of birth missing,DOB2,,SURBENSP_SI,,,70
+118,Age of surgical benefit rider child 2 exceeded 18 years or child 2 date of birth missing,CHILDDOB2,,SURBENCH2_SI,,,18
+119,Age of surgical benefit rider child 3 exceeded 18 years or child 3 date of birth missing,CHILDDOB3,,SURBENCH3_SI,,,18
+120,Age of surgical benefit rider child 4 exceeded 18 years or child 4 date of birth missing,CHILDDOB4,,SURBENCH4_SI,,,18
+121,Age of main life WOP_DTH_BASIC rider exceed 80 years or main life date of birth missing,DOB1,,WOP_DTH_BASIC_SA,,,80
+122,Age of main life WOP_DTH_RIDER rider exceed 80 years or main life date of birth missing,DOB1,,WOP_DTH_RIDER_SA,,,80
+123,Age of main life WOP_TPD_BASIC rider exceed 70 years or main life date of birth missing,DOB1,,WOP_TPD_BASIC_SA,,,70
+124,Age of main life WOP_TPD_RIDER rider exceed 70 years or main life date of birth missing,DOB1,,WOP_TPD_RIDER_SA,,,70
+103,Age of hospital benefit rider child 1 exceeded 18 years or child 1 date of birth missing,CHILDDOB,CHILDDOB1,SIHOSP3,SIHOSP4,,18
+109,Age of hospital benefit rider child 1 exceeded 23 years or child 1 date of birth missing,CHILDDOB,CHILDDOB1,MEDREM_CHILD1_BENEFIT,,,23
+117,Age of surgical benefit rider child 1 exceeded 18 years or child 1 date of birth missing,CHILDDOB,CHILDDOB1,SURBENCH1_SI,,,18
+113,Age of MIB main life beneficiary exceed 65 years or main life date of birth missing,DOB1,,MIB_LA_BENEFIT,MIB2_LIFE_ASSBENIFIT,LIAS_A_MIB2_BENEFIT_AMOUNT,65
+114,Age of MIB spouse beneficiary exceed 65 years or spouse date of birth missing,DOB1,,MIB_SP_BENEFIT,MIB2_SP_BENIFIT,SP_A_MIB2_BENEFIT_AMOUNT,65

@@ -1,0 +1,27 @@
+VALIDATION_ID,VALIDATION_MESSAGE,COLUMN_1,COLUMN_2,COLUMN_3,COLUMN_4,COLUMN_5,COLUMN_6
+83,Policy term of plan 13 not equal to 5 or 3,PLAN,13,TERM,,3|5,<>
+88,"Policy term of Ranmaga2 not 10, 15, 20, 25 years",PLAN,23,TERM,,10|15|20|25,<>
+125,"Policy term of plan 8 Rashmi not equal to 10, 15 or 20",PLAN,8,TERM,,10|15|20,<>
+126,Policy term of plan 15 Ranaswanu or plan 19 Thangaruwadei not equal to 10 ,PLAN,15|19,TERM,,10,<>
+127,Premium mode of plan 15 Ranaswanu or plan 19 Thangaruwadei not equal to annual,PLAN,15|19,MODE,,Y,<>
+128,Policy term of Plan 17 Saviya not equal to 10 or 15,PLAN,17,TERM,,10|15,<>
+129,Policy term of Plan 18 MyLife not equal to 15,PLAN,18,TERM,,15,<>
+130,Age at entry of main life of plan 18 MyLife exceed 40 years,PLAN,18,DOB1,COMMDATE,40,>
+132,"Sum assured of plan 20 MyFund not equal to 500,000",PLAN,20,SUMASSURED,,500000,<>
+133,Policy term of Plan 22 MyFreedom not equal to 15,PLAN,22,TERM,,15,<>
+134,Policy term of Plan 28 MyLife2 not equal to 15,PLAN,28,TERM,,15,<>
+135,Age at entry of main life of plan 28 MyLife2 exceed 35 years,PLAN,28,DOB1,COMMDATE,35,>
+136,Age at entry of main life of plan 29 or 30 MyPension exceed 80 years,PLAN,29|30,DOB1,COMMDATE,80,>
+137,Age at entry of main life of plan 29 or 30 MyPension below 55 years,PLAN,29|30,DOB1,COMMDATE,55,<
+138,Maximum term of plan 31 Araksha exceed 20 years,PLAN,31,TERM,,20,>
+139,"Sum assured of plan 31 Araksha less than 5,000,000",PLAN,31,SUMASSURED,,5000000,<
+140,Term of plan 32 Hope exceed 10 years,PLAN,32,TERM,,10,>
+141,"Sum assured of plan 32 Hope less than 500,000",PLAN,32,SUMASSURED,,500000,<
+142,"Sum assured of plan 32 Hope more than 2,000,000",PLAN,32,SUMASSURED,,2000000,>
+143,Age at entry of plan 32 Hope exceed 55 years,PLAN,32,AGE1,,55,>
+144,Term of plan 33 Safenet exceeds 15 years,PLAN,33,TERM,,15,>
+145,"Sum assured of plan 33 Safenet not equal to Rs.100,000 or Rs.200,000",PLAN,33,SUMASSURED,,100000|200000,<>
+146,Premium paying term of plan 39 PrivilegeLife is less than 5 years or empty,PLAN,39,PREM_PAYING_TERM,,5,<
+147,Policy term of plan 36 SmartFive is greater than 30 years,PLAN,36,TERM,,30,>
+148,Policy term of plan 36 SmartFive is less than 10 years,PLAN,36,TERM,,10,<
+149,Policy term of plan 39 PrivilegeLife is less than 10 years,PLAN,39,TERM,,10,<

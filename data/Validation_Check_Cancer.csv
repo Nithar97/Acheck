@@ -1,0 +1,6 @@
+VALIDATION_ID,VALIDATION_MESSAGE,COLUMN_1,COLUMN_2,COLUMN_3
+92,ACC_BENEFIT_AMOUNT not within limits stated in actuarial certificate,ACC_BENEFIT_AMOUNT,2500000|4000000|5000000|8000000,<>
+93,CANCER_LA_SA lower than minimum limit stated in actuarial certificate,CANCER_LA_SA,500000,<
+94,CANCER_LA_SA higher than maximum limit stated in actuarial certificate,CANCER_LA_SA,5000000,>
+95,CANCER_SP_SA lower than minimum limit stated in actuarial certificate,CANCER_SP_SA,500000,<
+96,CANCER_SP_SA higher than maximum limit stated in actuarial certificate,CANCER_SP_SA,5000000,>

@@ -1,0 +1,9 @@
+chardet
+streamlit
+pandas
+seaborn
+matplotlib
+numpy
+xlsxwriter
+ydata_profiling
+streamlit_pandas_profiling
